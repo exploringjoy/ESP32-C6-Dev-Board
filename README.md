@@ -13,4 +13,5 @@ For the first time:
 5. After that you can write your program (or use one of the existing examples) and upload it to the ESP32C6 Dev Board.
 
 ESP Tool: You can use the below site to get the model of your ESP32 and its MAC address:
-https://espressif.github.io/esptool-js/
+
+1. https://espressif.github.io/esptool-js/
