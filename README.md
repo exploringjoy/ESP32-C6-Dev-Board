@@ -1,8 +1,8 @@
 ESP32 C6 Dev Board
 
 Below are the additional board URL:
-https://espressif.github.io/arduino-esp32/package_esp32_dev_index.json
-https://espressif.github.io/arduino-esp32/package_esp32_index.json
+1. https://espressif.github.io/arduino-esp32/package_esp32_dev_index.json
+2. https://espressif.github.io/arduino-esp32/package_esp32_index.json
 
 For the first time:
 
